@@ -22,8 +22,7 @@
 
         <activity android:name="project.android.mvppractice.UI.Login.LoginActivity"
            android:screenOrientation="portrait" />
-        <activity android:name="project.android.mvppractice.UI.home.MainActivity"
-            android:screenOrientation="portrait"/>
+
         <activity android:name="project.android.mvppractice.UI.movies.MovieListActivity"
             android:screenOrientation="portrait"/>
 

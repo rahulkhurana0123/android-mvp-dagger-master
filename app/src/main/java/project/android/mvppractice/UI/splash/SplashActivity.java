@@ -9,9 +9,9 @@ import android.support.v7.app.AppCompatActivity;
 import javax.inject.Inject;
 
 import project.android.MyApp;
-import project.android.mvppractice.UI.home.MainActivity;
 import project.android.mvppractice.R;
 import project.android.mvppractice.UI.Login.LoginActivity;
+import project.android.mvppractice.UI.movies.MovieListActivity;
 import project.android.mvppractice.di.component.DaggerPresentorComponent;
 import project.android.mvppractice.di.component.PresentorComponent;
 import project.android.mvppractice.di.module.SplashModule;
@@ -50,7 +50,7 @@ public class SplashActivity extends AppCompatActivity implements SplashMvpView {
     @Override
     public void openMainActiivity() {
 
-        startActivity(new Intent(SplashActivity.this, MainActivity.class));
+        startActivity(new Intent(SplashActivity.this, MovieListActivity.class));
         finish();
 
 

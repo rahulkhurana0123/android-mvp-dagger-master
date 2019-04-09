@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">MVPMindorkspractice</string>
+    <string name="app_name">MVP Dagger Demo</string>
 
     <string name="action_add_favourite">Add to Favourites</string>
     <string name="action_play_next">Play Next</string>

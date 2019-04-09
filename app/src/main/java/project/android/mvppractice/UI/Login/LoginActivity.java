@@ -17,8 +17,8 @@ import butterknife.BindView;
 import butterknife.ButterKnife;
 import butterknife.OnClick;
 import project.android.MyApp;
-import project.android.mvppractice.UI.home.MainActivity;
 import project.android.mvppractice.R;
+import project.android.mvppractice.UI.movies.MovieListActivity;
 import project.android.mvppractice.di.component.DaggerLoginComponent;
 import project.android.mvppractice.di.component.LoginComponent;
 import project.android.mvppractice.di.module.LoginModule;
@@ -68,7 +68,7 @@ public class LoginActivity extends AppCompatActivity implements LoginMvpView {
     @Override
     public void openHomeActivity() {
 
-        startActivity(new Intent(getApplicationContext(), MainActivity.class));
+        startActivity(new Intent(getApplicationContext(), MovieListActivity.class));
         finish();
 
     }
