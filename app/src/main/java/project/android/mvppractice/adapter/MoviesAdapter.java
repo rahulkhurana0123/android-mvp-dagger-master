@@ -12,6 +12,9 @@ import java.util.List;
 import project.android.mvppractice.R;
 import project.android.mvppractice.model.Movie;
 
+/**
+ * Created by Rahul khurana on 09/04/19.
+ */
 
 public class MoviesAdapter extends RecyclerView.Adapter<MoviesAdapter.MovieViewHolder> {
 

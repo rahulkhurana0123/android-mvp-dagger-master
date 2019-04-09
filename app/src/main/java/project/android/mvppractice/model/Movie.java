@@ -6,6 +6,10 @@ import java.util.ArrayList;
 import java.util.List;
 
 
+/**
+ * Created by Rahul khurana on 09/04/19.
+ */
+
 public class Movie {
     @SerializedName("poster_path")
     private String posterPath;

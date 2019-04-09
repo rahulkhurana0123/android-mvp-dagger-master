@@ -16,6 +16,10 @@ import project.android.mvppractice.di.component.DaggerPresentorComponent;
 import project.android.mvppractice.di.component.PresentorComponent;
 import project.android.mvppractice.di.module.SplashModule;
 
+/**
+ * Created by Rahul khurana on 09/04/19.
+ */
+
 public class SplashActivity extends AppCompatActivity implements SplashMvpView {
 
 

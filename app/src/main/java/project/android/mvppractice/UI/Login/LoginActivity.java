@@ -24,6 +24,10 @@ import project.android.mvppractice.di.component.LoginComponent;
 import project.android.mvppractice.di.module.LoginModule;
 import project.android.mvppractice.utils.DialogUtils;
 
+/**
+ * Created by Rahul khurana on 09/04/19.
+ */
+
 public class LoginActivity extends AppCompatActivity implements LoginMvpView {
 
 

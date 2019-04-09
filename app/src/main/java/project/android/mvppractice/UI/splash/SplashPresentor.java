@@ -2,6 +2,10 @@ package project.android.mvppractice.UI.splash;
 
 import project.android.mvppractice.preferences.Preference;
 
+/**
+ * Created by Rahul khurana on 09/04/19.
+ */
+
 public class SplashPresentor implements Presentor {
 
     SplashMvpView splashMvpView;

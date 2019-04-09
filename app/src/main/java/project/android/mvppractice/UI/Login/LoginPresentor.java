@@ -3,6 +3,11 @@ package project.android.mvppractice.UI.Login;
 import project.android.mvppractice.preferences.LoginDataManager;
 import project.android.mvppractice.preferences.Preference;
 
+
+/**
+ * Created by Rahul khurana on 09/04/19.
+ */
+
 public class LoginPresentor implements LoginMvpPresntor{
 
 

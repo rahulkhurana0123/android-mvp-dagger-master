@@ -3,6 +3,9 @@ package project.android.mvppractice.preferences;
 import android.content.Context;
 import android.content.SharedPreferences;
 import android.preference.PreferenceManager;
+/**
+ * Created by Rahul khurana on 09/04/19.
+ */
 
 public class Preference {
 

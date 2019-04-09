@@ -10,6 +10,10 @@ import project.android.MyApp;
 import project.android.mvppractice.di.module.AppModule;
 import project.android.mvppractice.preferences.Preference;
 
+/**
+ * Created by Rahul khurana on 09/04/19.
+ */
+
 @Singleton
 @Component (modules = AppModule.class)
 public interface AppComponent {

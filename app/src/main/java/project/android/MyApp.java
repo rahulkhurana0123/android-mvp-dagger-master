@@ -7,6 +7,10 @@ import project.android.mvppractice.di.component.AppComponent;
 import project.android.mvppractice.di.component.DaggerAppComponent;
 import project.android.mvppractice.di.module.AppModule;
 
+/**
+ * Created by Rahul khurana on 09/04/19.
+ */
+
 public class MyApp extends Application {
 
 

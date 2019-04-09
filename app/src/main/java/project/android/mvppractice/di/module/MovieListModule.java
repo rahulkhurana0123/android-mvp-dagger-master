@@ -14,6 +14,10 @@ import project.android.mvppractice.adapter.MoviesAdapter;
 import project.android.mvppractice.di.scope.ActivityScope;
 import project.android.mvppractice.model.Movie;
 
+/**
+ * Created by Rahul khurana on 09/04/19.
+ */
+
 @Module
 public class MovieListModule {
 

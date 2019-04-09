@@ -1,5 +1,9 @@
 package project.android.mvppractice.model;
 
+/**
+ * Created by Rahul khurana on 09/04/19.
+ */
+
 public class User {
 
 

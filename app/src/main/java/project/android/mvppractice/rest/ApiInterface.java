@@ -6,6 +6,9 @@ import retrofit2.http.GET;
 import retrofit2.http.Path;
 import retrofit2.http.Query;
 
+/**
+ * Created by Rahul khurana on 09/04/19.
+ */
 
 public interface ApiInterface {
     @GET("movie/top_rated")

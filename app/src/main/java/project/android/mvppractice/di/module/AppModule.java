@@ -9,6 +9,10 @@ import dagger.Module;
 import dagger.Provides;
 import project.android.mvppractice.preferences.Preference;
 
+/**
+ * Created by Rahul khurana on 09/04/19.
+ */
+
 @Module
 public class AppModule {
 

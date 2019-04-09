@@ -22,6 +22,9 @@ import project.android.mvppractice.di.module.MovieListModule;
 import project.android.mvppractice.model.Movie;
 import project.android.mvppractice.utils.DialogUtils;
 
+/**
+ * Created by Rahul khurana on 09/04/19.
+ */
 
 public class MovieListActivity extends AppCompatActivity implements MovieListMvpView {
 
